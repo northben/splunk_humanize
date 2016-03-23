@@ -1,0 +1,6 @@
+[commands/humanize]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = nobody
+version = 6.3.3
+modtime = 1458589291.806870000
